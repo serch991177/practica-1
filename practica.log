@@ -1,0 +1,196 @@
+commit 65e5c0a3732afcfb10d307c74b2e8fd9e8b328e0 (HEAD -> master, 
+origin/master)
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 20:37:05 2019 -0400
+
+    eliminacion de archivo creado por error
+
+ sa | 29 -----------------------------
+ 1 file changed, 29 deletions(-)
+
+commit 4e8af92fd14a7d79bfa529a2c8f0b3990ff5bfc7
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 19:26:10 2019 -0400
+
+    se creo un archivo tmp con el primer y el ultimo commit
+
+ practica.tmp | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit eb8b7a06204aab52e26c163306ce6fc5e119729f
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 19:09:34 2019 -0400
+
+    se creo contenido dentro del html el cual es: Hata el momento lo que 
+me gusta del git es que la momento de
+
+ index.html | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit d2981e78ba7e490015f95072a3aed6870b9647e8
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 18:37:47 2019 -0400
+
+    se creo un archivo html
+
+ img/img1.jpg                 | Bin 70559 -> 0 bytes
+ img/img2.jpg                 | Bin 59788 -> 0 bytes
+ css/styles.css => index.html |   0
+ js/main.js                   |   0
+ sa                           |  29 +++++++++++++++++++++++++++++
+ 5 files changed, 29 insertions(+)
+
+commit d778fa4309aca4a3d0674d022e6e3900a6f209a7
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 18:32:55 2019 -0400
+
+    se movieron las carpetas
+
+ assets/css/styles.css |   0
+ assets/img/img1.jpg   | Bin 0 -> 70559 bytes
+ assets/img/img2.jpg   | Bin 0 -> 59788 bytes
+ assets/js/main.js     |   0
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 27dc1d6dcbfe0891e963810e260c0a530f6b4fec
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 18:12:29 2019 -0400
+
+    se cambio el nombre de la carpeta
+
+ img/img1.jpg               | Bin 0 -> 70559 bytes
+ {imagenes => img}/img2.jpg | Bin
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 28db5732a332014b6485be52f5ff11432f85b47b
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 18:10:38 2019 -0400
+
+    solo se agrego img2.jpg
+
+ imagenes/img2.jpg | Bin 0 -> 59788 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 79c4cf9a7753f1f7dd12172b07d4e2e15fcb0e3b
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 17:49:19 2019 -0400
+
+    se agregaron estos dos ultimos archivos creados
+
+ css/styles.css | 0
+ js/main.js     | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 53d8ffedd5d731f3b201a6ba5b422d59e26eb3cf
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 17:39:04 2019 -0400
+
+    primer commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+(END)      1 [sig] bash 13396! sigpacket::process: Suppressing signal 18 
+to win32 process (pid 2900)
+
+    solo se agrego img2.jpg
+
+ imagenes/img2.jpg | Bin 0 -> 59788 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 79c4cf9a7753f1f7dd12172b07d4e2e15fcb0e3b
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 17:49:19 2019 -0400
+
+    se agregaron estos dos ultimos archivos creados
+
+ css/styles.css | 0
+ js/main.js     | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 53d8ffedd5d731f3b201a6ba5b422d59e26eb3cf
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 17:39:04 2019 -0400
+
+    primer commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+(END)4974641 [sig] bash 13396! sigpacket::process: Suppressing signal 18 
+to win32 process (pid 2900)
+
+    solo se agrego img2.jpg
+
+ imagenes/img2.jpg | Bin 0 -> 59788 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 79c4cf9a7753f1f7dd12172b07d4e2e15fcb0e3b
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 17:49:19 2019 -0400
+
+    se agregaron estos dos ultimos archivos creados
+
+ css/styles.css | 0
+ js/main.js     | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 53d8ffedd5d731f3b201a6ba5b422d59e26eb3cf
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 17:39:04 2019 -0400
+
+    primer commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+(END)5176430 [sig] bash 13396! sigpacket::process: Suppressing signal 18 
+to win32 process (pid 2900)
+
+    solo se agrego img2.jpg
+
+ imagenes/img2.jpg | Bin 0 -> 59788 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 79c4cf9a7753f1f7dd12172b07d4e2e15fcb0e3b
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 17:49:19 2019 -0400
+
+    se agregaron estos dos ultimos archivos creados
+
+ css/styles.css | 0
+ js/main.js     | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 53d8ffedd5d731f3b201a6ba5b422d59e26eb3cf
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 17:39:04 2019 -0400
+
+    primer commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+(END)5331781 [sig] bash 13396! sigpacket::process: Suppressing signal 18 
+to win32 process (pid 2900)
+
+    solo se agrego img2.jpg
+
+ imagenes/img2.jpg | Bin 0 -> 59788 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 79c4cf9a7753f1f7dd12172b07d4e2e15fcb0e3b
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 17:49:19 2019 -0400
+
+    se agregaron estos dos ultimos archivos creados
+
+ css/styles.css | 0
+ js/main.js     | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 53d8ffedd5d731f3b201a6ba5b422d59e26eb3cf
+Author: serch991177 <sergioandia11@gmail.com>
+Date:   Thu Apr 4 17:39:04 2019 -0400
+
+    primer commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
